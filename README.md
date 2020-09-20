@@ -4,3 +4,5 @@
  Fetch data from www.redfin.com automatically 
  
  You can re-difine URL to get data for different cities, the default city in notebook is set to "New York"
+ 
+ You can download the right version of selenium chromedriver here: https://chromedriver.chromium.org/downloads
